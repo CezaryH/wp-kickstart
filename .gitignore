@@ -1,0 +1,8 @@
+node_modules/
+.DS_Store
+wp-local-config.php
+content/uploads/
+content/cache/
+vendor/
+wp/
+composer.lock
