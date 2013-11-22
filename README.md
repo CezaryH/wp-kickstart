@@ -36,6 +36,20 @@ You will now have a `wp-local-config.php` that will override the
 `wp-config.php` file and apply some developer settings.
 
 
+Changlog
+-------------------------------------------------------------------------------
+
+### 0.1.1 - 22/11/13
+
+- fixed path error
+- improved code comments
+- removed excessive tabs
+
+### 0.1.0 - 21/11/13
+
+- initial release
+
+
 Author(s)
 -------------------------------------------------------------------------------
 
