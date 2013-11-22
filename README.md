@@ -3,6 +3,11 @@ WP Kickstart
 
 Kickstart your WordPress site
 
+[Packagist](https://packagist.org/packages/data-values/geo)
+
+[![Latest Stable Version](https://poser.pugx.org/data-values/geo/version.png)](https://packagist.org/packages/data-values/geo)
+[![Download count](https://poser.pugx.org/data-values/geo/d/total.png)](https://packagist.org/packages/data-values/geo)
+
 
 Installing
 -------------------------------------------------------------------------------
@@ -44,6 +49,7 @@ Changlog
 - fixed path error
 - improved code comments
 - removed excessive tabs
+
 
 ### 0.1.0 - 21/11/13
 
