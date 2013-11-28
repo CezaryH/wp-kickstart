@@ -19,7 +19,13 @@
         "wpackagist/google-analytics-for-wordpress": "*"
     },
     "require-dev"  : {
-        "wpackagist/developer": "*"
+        "wpackagist/developer": "*",
+        "wpackagist/debug-bar": "*",
+        "wpackagist/debug-bar-console": "*",
+        "wpackagist/log-deprecated-notices": "*",
+        "wpackagist/log-viewer": "*",
+        "wpackagist/theme-check": "*",
+        "wpackagist/simply-show-ids": "*"
     },
     "extra": {
         "wordpress-install-dir": "wp",

@@ -19,7 +19,6 @@ if ( file_exists( dirname( __FILE__ ) . '/wp-local-config.php' ) ) {
     // Database settings
     // ------------------------------------------------------------------------
 
-    define( 'WP_LOCAL_DEV', false );
     define( 'DB_NAME', '' );
     define( 'DB_USER', '' );
     define( 'DB_PASSWORD', '' );
@@ -67,15 +66,6 @@ define( 'WP_CONTENT_URL', 'http://' . WP_HOST . '/content' );
 
 
 // ----------------------------------------------------------------------------
-// Database Charset to use in creating database tables and the collate type
-// (don't change these if in doubt)
-// ----------------------------------------------------------------------------
-
-define( 'DB_CHARSET', 'utf8' );
-define( 'DB_COLLATE', '' );
-
-
-// ----------------------------------------------------------------------------
 // Authentication Unique Keys and Salts
 // Grab from: https://api.wordpress.org/secret-key/1.1/salt
 // ----------------------------------------------------------------------------
@@ -99,10 +89,10 @@ $table_prefix  = 'wp_';
 
 
 // ----------------------------------------------------------------------------
-// Language (default is `en-US`)
+// Language (default is `en_US`)
 // ----------------------------------------------------------------------------
 
-define( 'WPLANG', 'en_GB' );
+define( 'WPLANG', '' );
 
 
 // ----------------------------------------------------------------------------
