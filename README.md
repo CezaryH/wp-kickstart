@@ -103,6 +103,11 @@ folder name.
 Changlog
 -------------------------------------------------------------------------------
 
+### 0.1.3 - 09/12/13
+
+- Added "root-relative-urls" plugin to default plugins (sites will be more
+  portable by not allowing WordPress to use the domain for interal images)
+
 ### 0.1.2 - 28/11/13
 
 - Updated README with info about plugins

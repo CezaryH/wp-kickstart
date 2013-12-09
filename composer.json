@@ -14,9 +14,10 @@
     },
     "require": {
         "johnpbloch/wordpress": "*",
-        "wpackagist/wp-super-cache": "*",
+        "wpackagist/google-analytics-for-wordpress": "*",
+        "wpackagist/root-relative-urls",
         "wpackagist/wordpress-importer": "*",
-        "wpackagist/google-analytics-for-wordpress": "*"
+        "wpackagist/wp-super-cache": "*"
     },
     "require-dev"  : {
         "wpackagist/developer": "*",
