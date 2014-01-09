@@ -15,7 +15,6 @@
     "require": {
         "johnpbloch/wordpress": "*",
         "wpackagist/google-analytics-for-wordpress": "*",
-        "wpackagist/root-relative-urls",
         "wpackagist/wordpress-importer": "*",
         "wpackagist/wp-super-cache": "*"
     },
