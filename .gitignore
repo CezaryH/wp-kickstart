@@ -31,5 +31,5 @@ wp-local-config.php
 # Ignore everything in the folder by default
 /content/plugins/*
 
-# Don't ingore the following
+# Don't ignore the following
 !/content/plugins/fake-plugin/
